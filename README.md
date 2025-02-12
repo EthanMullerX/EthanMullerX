@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou [Ethan!]
 
-<img src="https://tenor.com/pt-BR/view/netero-heart-hunter-gif-5702456" width="100%" />
+<img src="https://i.imgur.com/WcgyoXZ.gif" width="100%" />
 
 💻 Desenvolvedor |🚀 Apaixonado por tecnologia | 🎮	Jogo nas horas vagas 
 
@@ -23,9 +23,8 @@
 
 ### 📫 Onde me encontrar:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ethan-muller-780543220/)  
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ethanmullerx/)  
-[![Email](https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:ethanielrmuller@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ethan-muller-780543220/) [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ethanmullerx/) [![Email](https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:ethanielrmuller@gmail.com)  
+
 ---
 
 ![Visitors](https://komarev.com/ghpvc/?username=EthanMullerX&color=green)
