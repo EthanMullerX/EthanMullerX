@@ -22,10 +22,10 @@
 ---
 
 ### 📫 Onde me encontrar:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://https://www.linkedin.com/in/ethan-muller-780543220/)**
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://https://www.instagram.com/ethanmullerx/)**
-[![Email](https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:ethanielrmuller@gmail.com)**
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ethan-muller-780543220/)  
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ethanmullerx/)  
+[![Email](https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:ethanielrmuller@gmail.com)  
 ---
 
 ![Visitors](https://komarev.com/ghpvc/?username=EthanMullerX&color=green)
