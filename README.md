@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou [Ethan!]
 
-<img src="https://i.imgur.com/WcgyoXZ.gif" width="50%" />
+<img src="https://i.imgur.com/WcgyoXZ.gif" width="75%" />
 
 💻 Desenvolvedor |🚀 Apaixonado por tecnologia | 🎮	Jogo nas horas vagas 
 
